@@ -30,7 +30,6 @@ I’m currently working on building a bridge between **HR theory** and **practic
 | `kama-ayurveda-case-study`      | Evolution of product lines, brand strategy, and PPT for classroom presentation      |
 | `hr-survey-templates`           | Custom survey questions & Likert-scale formats for feedback, engagement & training  |
 | `performance-management-models` | Notes and diagrams on MBO, 360° feedback, and Balanced Scorecard frameworks         |
-| `labour-law-notes-upsc`         | Simplified notes on ID Act, Factories Act, ESI, PF for MBA + UPSC                   |
 | `hr-analytics-mini`             | Excel dashboards for mock HR data (attrition, training, productivity metrics)       |
 
 ---
@@ -41,7 +40,7 @@ I’m currently working on building a bridge between **HR theory** and **practic
 - Excel | PowerPoint | Power BI (Learning)
 - 🧠 Behavioral Science | Organizational Development | HR Policy
 #📋 Tools:
-- Google Forms | Canva | Zoho Recruit | MS Office
+- Google Forms | Canva | MS Office
 #📘 Soft Skills:
 Communication | Critical Thinking | Emotional Intelligence
 
