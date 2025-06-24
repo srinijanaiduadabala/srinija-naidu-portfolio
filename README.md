@@ -40,8 +40,10 @@ I’m currently working on building a bridge between **HR theory** and **practic
 #📊 HR Analytics:
 - Excel | PowerPoint | Power BI (Learning)
 - 🧠 Behavioral Science | Organizational Development | HR Policy
+  
 #📋 Tools:
 - Google Forms | Canva | MS Office
+
 #📘 Soft Skills:
 -Communication | Critical Thinking | Emotional Intelligence
 
