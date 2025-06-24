@@ -5,13 +5,13 @@
 🎓 **MBA in Human Resource Management**  
 💡 **Passionate about People, Performance & Purpose**  
 📍 Based in India. 
-📬 Let's connect on [LinkedIn](https://linkedin.com/in/)
+📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/srinija-naidu-adabala-56187223b/)
 
 ---
 
 ## 🌟 About Me
 
-Hello! I’m a Human Resource Management student with a strong foundation in:
+Hello! I’m SRINIJA NAIDU ADABALA, a Human Resource Management student with a strong foundation in:
 
 - Talent Acquisition & Employer Branding  
 - Employee Engagement & Organizational Culture  
