@@ -1,113 +1,69 @@
-##srinija-naidu-portfolio
-#MBA | BSC,Data Science |HR &amp; Marketing
 
+#MBA- HR & Marketing | BSC,Data Science.
+# 👋 Hi there! I’m an MBA (HR) Student.
 
----
-## 🧾 **Personal Portfolio: Srinija Naidu**
-
-### 👤 **Personal Profile**
-
-A highly motivated and curious individual, currently pursuing an MBA with a specialization in Human Resources. Deeply interested in public administration and social development, with a strong aspiration to serve the nation through the UPSC Civil Services Examination (CSE). Passionate about research, especially in the agricultural and manufacturing sectors, and committed to academic excellence, digital productivity, and personal growth.
+🎓 **MBA in Human Resource Management**  
+💡 **Passionate about People, Performance & Purpose**  
+📍 Based in India. 
+📬 Let's connect on [LinkedIn](https://linkedin.com/in/)
 
 ---
 
-### 🎓 **Academic Background**
+## 🌟 About Me
 
-* **Current Education:** MBA (Specialization: Human Resources)
-* **Focus Areas:**
+Hello! I’m a Human Resource Management student with a strong foundation in:
 
-  * Employee Engagement & Performance Management
-  * Strategic HRM & Organizational Behavior
-  * Business Research Methods (BRM)
-  * Dividend Policy Theories & Financial Management
+- Talent Acquisition & Employer Branding  
+- Employee Engagement & Organizational Culture  
+- HR Analytics (Excel, Power BI – beginner)  
+- Performance Management Systems  
 
----
-
-### 📚 **UPSC Aspirant (CSE 2026)**
-
-* **Preparation Start:** 2024
-* **Goal:** First attempt in 2026
-* **Key Strategies:**
-
-  * Completed NCERT reading plan from Class 6 to 12 for History, Polity, Geography, Science, and Environment
-  * Created structured daily, weekly, and monthly timetables
-  * Used apps like Notion and TrackIt for personalized study tracking
-  * Focused on Environment (Class 12), Science NCERTs (Class 11–12), and UPSC-specific topics
-* **Strong Areas:**
-
-  * Indian Polity & Governance
-  * Agriculture & Environmental Issues
-  * Ethics, Integrity, and Aptitude
+I’m currently working on building a bridge between **HR theory** and **practical, real-world application**—through case studies, research projects, and productivity systems. My long-term goal is to become an **HR leader** who enables inclusive, data-driven, and purpose-focused workplaces.
 
 ---
 
-### 🔬 **Research Interests**
+## 🗂️ Key Projects & Repositories
 
-* **Special Focus:** Pesticide Manufacturing & Agricultural Industries in India
-* **HR Case Studies:**
-
-  * Employee Engagement at RINL (Rashtriya Ispat Nigam Ltd)
-  * Performance Management Systems vs. Performance Appraisals
-  * Promotional Policies & Organizational Development
-* **Methodologies Used:**
-
-  * Questionnaire Analysis
-  * Hypothesis Formation
-  * Findings and Suggestions Documentation
-  * Statistical Techniques (Chi-Square Test, Classification of Data)
+|  📁 Repo Name                   |   🔍 Description                                                                   |
+|-------------|---------------------------------------------------------------------------------------------------------|
+| `employee-engagement-rinl`      | Field research, analysis & PPT on employee engagement at Vizag Steel (RINL)         |
+| `kama-ayurveda-case-study`      | Evolution of product lines, brand strategy, and PPT for classroom presentation      |
+| `hr-survey-templates`           | Custom survey questions & Likert-scale formats for feedback, engagement & training  |
+| `performance-management-models` | Notes and diagrams on MBO, 360° feedback, and Balanced Scorecard frameworks         |
+| `labour-law-notes-upsc`         | Simplified notes on ID Act, Factories Act, ESI, PF for MBA + UPSC                   |
+| `hr-analytics-mini`             | Excel dashboards for mock HR data (attrition, training, productivity metrics)       |
 
 ---
 
-### 💼 **Career Aspirations**
+## 📚 Skills & Tools
 
-* **Short-term:** Excel as an HR professional with a research-driven approach
-* **Long-term:** Become an Indian Administrative Service (IAS) officer to contribute to nation-building with innovative policies in education, agriculture, and women empowerment
-
----
-
-### 🧠 **Skills & Competencies**
-
-* Research Writing & Data Interpretation
-* Human Resource Management
-* Public Policy Understanding
-* Time Management & Strategic Planning
-* Tool Proficiency: Notion, TrackIt, MS Office
-* Languages: English, Telugu (fluent)
+#📊 HR Analytics:
+- Excel | PowerPoint | Power BI (Learning)
+- 🧠 Behavioral Science | Organizational Development | HR Policy
+#📋 Tools:
+- Google Forms | Canva | Zoho Recruit | MS Office
+#📘 Soft Skills:
+Communication | Critical Thinking | Emotional Intelligence
 
 ---
 
-### 🖥️ **Digital & Creative Engagement**
+## 💡 Interests & Topics I Explore
 
-* Created multiple structured content plans for YouTube and digital platforms
-* Interested in building educational and informative content
-* Actively explores case studies on Lean Management, FMEA, and industrial practices
-* Keen user of digital tools to enhance learning efficiency and productivity
-
----
-
-### 🌟 **Strengths**
-
-* Strong analytical and writing skills
-* Disciplined and consistent learner
-* Curious and research-oriented mindset
-* Balanced academic and competitive preparation
-* Empathetic and socially aware – traits ideal for both HR and civil services
+- 🌿 Employee Well-being & Mental Health  
+- 📈 HR in Public Sector Enterprises (e.g., RINL, SAIL, BHEL)  
+- 🤖 Digital HR & AI in Recruitment  
+- 🧠 Learning & Development Strategy  
 
 ---
 
-### 📍 **Location**
+## ✍️ Currently Working On
 
-* Based in Andhra Pradesh, India
-* Strong interest in regional development and local governance
-
----
-
-### 📈 **Ongoing Projects**
-
-* Preparation for UPSC CSE 2026
-* Research on HR practices at major Indian PSUs like RINL
-* Building an optimized study routine using digital tools
-* Case studies in lean management, especially in Indian manufacturing sectors
+- Writing a mini whitepaper on "Modern Employee Engagement in PSUs"   
+- Preparing case summaries on Haldiram’s and Zudio brand evolution.
 
 ---
+
+> *"HR is not just about policies; it’s about people, purpose, and possibilities."*
+
+
 
